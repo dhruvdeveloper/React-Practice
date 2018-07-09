@@ -1,11 +1,27 @@
-.name-design{
-    color: orange;
-}
-
 .color-orange{
     color: orange;
 }
 
 .color-red{
     color: red;
+}
+
+.color-green{
+    color: green;
+}
+
+.color-blue{
+    color: blue;
+}
+
+.color-black{
+    color: black;
+}
+
+.color-pink{
+    color: deeppink;
+}
+
+.color-gold{
+    color: gold;
 }
