@@ -7,8 +7,10 @@ class App extends Component {
     return (
       <div className="App">
           <h2>Name of Student</h2>
-          <Name name = "Dhruv" education = "B.E in Computer Engineering." color = "color-red"/>
           <Name name = "Yash" education = "M.S in Computer Science." color = "color-orange"/>
+          <Name name = "Dhruv" education = "B.E in Computer Engineering." color = "color-red"/>
+          <Name name = "vishal" education = "B.E in Computer Engineering." color = "color-red"/>
+          <Name name = "priyank" education = "B.E in Computer Engineering." color = "color-orange"/>
       </div>
     );
   }
